@@ -1,1 +1,2 @@
 # odin-recipes
+El proyecto actual es una simple pagina web de recetas del curso de odin. Al finalizarlo demostrare mis habilidades con git y programacion html, los contenidos vistos son parrafos, links, imagenes, y etiquetas para convertir texto en italic y negrita.
